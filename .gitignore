@@ -25,3 +25,6 @@ eclipse
 /neoforge/runs/
 /neoforge/logs/
 /forge/
+
+references/
+*.DS_Store
